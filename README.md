@@ -49,9 +49,9 @@ This code can be used with multiple server deploying with minor edits.<br>
   |       |       |                     |
   |       |       |                     v(1) 
  user1	user2	userN             SySAdmin(Running Script) ---------(2)--(3)--(4)
-								    |     |    |
-								    |     |    |
-								    |	  |    |
+                                                                    |     |    |
+                                                                    |     |    |
+                                                                    |	  |    |
                             BitBucket(Internet) <--------------------     |    | 
                                |        |                                 |    |
                                |        v                                 |    |
