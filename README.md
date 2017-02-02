@@ -24,7 +24,7 @@ Steps:<br>
  user1	user2	userN             SySAdmin(Running Script) ---------(2)--(3)
                                                                     |     |
                                                                     |     |
-                                                                    |	  |
+                                                                    |     |
  Remote Server <----------- BitBucket(Internet) <--------------------     |
      ^                                                                    |
      |                                                                    |
