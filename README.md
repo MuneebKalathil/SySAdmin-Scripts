@@ -22,9 +22,9 @@ Steps:<br>
   |       |       |                     |
   |       |       |                     V (1) 
  user1	user2	userN             SySAdmin(Running Script) ---------(2)--(3)
-								    |     |
-								    |     |
-								    |	  |
+                                                                    |     |
+                                                                    |     |
+                                                                    |	  |
  Remote Server <----------- BitBucket(Internet) <--------------------     |
      ^                                                                    |
      |                                                                    |
