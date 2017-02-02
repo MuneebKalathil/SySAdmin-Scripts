@@ -55,7 +55,7 @@ This code can be used with multiple server deploying with minor edits.<br>
                             BitBucket(Internet) <--------------------     |    | 
                                |        |                                 |    |
                                |        v                                 |    |
-                               |      Server1 -----------------------------    |
+                               |      Server1 <----------------------------    |
                                v                                               |
-                           Server2 ---------------------------------------------
+                           Server2 <--------------------------------------------
 ```
