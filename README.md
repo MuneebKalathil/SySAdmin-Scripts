@@ -59,3 +59,5 @@ This code can be used with multiple server deploying with minor edits.<br>
                                v                                               |
                            Server2 <--------------------------------------------
 ```
+<b>04. RunCommand.py</b><br>
+This script will run a command on server1. This script does not use any error catching <br>
