@@ -1,5 +1,11 @@
 # SySAdmin-Scripts
 
+01. FileUploader.py
+02. AppDeploy.py
+03. AppDeployMulti.py
+04. RunCommand.py
+
+
 <b>01. FileUploader.py</b><br>
 This script will download the tar.gz file from Gitlab to local directory and extract it, then compress again with zip & tar.xz without including root folder. After compressing in .zip.tar.xz, It will upload to server. Then extract all the files, Overwrites.
 After extracting, It will remove compressed files from server & Local system. <br>
@@ -60,4 +66,4 @@ This code can be used with multiple server deploying with minor edits.<br>
                            Server2 <--------------------------------------------
 ```
 <b>04. RunCommand.py</b><br>
-This script will run a command on server1. This script does not use any error catching <br>
+This script will run a command on server1. This script does not use any error catching. <br>
