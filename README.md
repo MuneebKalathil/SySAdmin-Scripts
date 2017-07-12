@@ -4,6 +4,7 @@
 02. AppDeploy.py
 03. AppDeployMulti.py
 04. RunCommand.py
+05. BackupScript.py
 
 
 <b>01. FileUploader.py</b><br>
@@ -67,3 +68,6 @@ This code can be used with multiple server deploying with minor edits.<br>
 ```
 <b>04. RunCommand.py</b><br>
 This script will run a command on server1. This script does not use any error catching. <br>
+
+<b>05. BackupScript.py</b><br>
+This script will backup DB & Project folder(sync). Then it will compress the Project folder.
