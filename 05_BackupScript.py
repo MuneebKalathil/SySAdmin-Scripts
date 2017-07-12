@@ -34,7 +34,7 @@ def otsms_db():
         run('rm *.sql.xz -f')
 
 def otsms_sync():
-    bk_command = 'rsync -avz root@192.168.20.50:/var/www/vcsms /home/villauser/backup/OTSMS/files'
+    bk_command = 'rsync -avz root@192.168.20.55:/var/www/vcsms /home/villauser/backup/OTSMS/files'
     local(bk_command)
 
 def otsms_zip():
